@@ -1,0 +1,122 @@
+{
+  "Meenakshi Amman Temple": {
+    "location": "Madurai",
+    "history": "An ancient Hindu temple located on the southern bank of the Vaigai River. It is dedicated to Meenakshi, a form of Shakti, and her consort, Sundareshwarar, a form of Shiva. The temple is the heart of the 2,500-year-old city of Madurai and was largely rebuilt in the 14th century.",
+    "hours": "5:00 AM – 12:30 PM, 4:00 PM – 10:00 PM",
+    "tickets": "Free Entry; Special Darshan: ₹50 - ₹100",
+    "coordinates": [9.9195, 78.1193],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Meenakshi+Amman+Temple+Madurai"
+  },
+  "Brihadeeswarar Temple": {
+    "location": "Thanjavur",
+    "history": "A UNESCO World Heritage Site, also known as RajaRajeswaram. Built by Chola emperor Rajaraja I between 1003 and 1010 AD, it is one of the largest South Indian temples and an exemplary example of fully realized Dravidian architecture.",
+    "hours": "6:00 AM – 12:30 PM, 4:00 PM – 8:30 PM",
+    "tickets": "Free Entry",
+    "coordinates": [10.7828, 79.1318],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Brihadeeswarar+Temple+Thanjavur"
+  },
+  "Ramanathaswamy Temple": {
+    "location": "Rameswaram",
+    "history": "Located on Rameswaram island, it is one of the twelve Jyotirlinga temples. It is famous for its long corridors (the longest in the world) and 22 holy wells (theerthams). It is a major pilgrimage site for both Shaivites and Vaishnavites.",
+    "hours": "5:00 AM – 1:00 PM, 3:00 PM – 9:00 PM",
+    "tickets": "Free Entry; Special Darshan available",
+    "coordinates": [9.2881, 79.3174],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ramanathaswamy+Temple+Rameswaram"
+  },
+  "Sri Ranganathaswamy Temple": {
+    "location": "Srirangam",
+    "history": "Dedicated to Ranganatha, a reclining form of Vishnu. It is the largest functioning temple complex in the world, covering 156 acres. It features 21 stunning gopurams (towers), including the Rajagopuram which is 236 feet tall.",
+    "hours": "6:00 AM – 1:00 PM, 3:00 PM – 9:00 PM",
+    "tickets": "Free Entry; Quick Darshan: ₹250",
+    "coordinates": [10.8587, 78.6917],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sri+Ranganathaswamy+Temple+Srirangam"
+  },
+  "Thillai Nataraja Temple": {
+    "location": "Chidambaram",
+    "history": "A Hindu temple dedicated to Nataraja – Shiva as the lord of dance. It is one of the five holiest Shiva temples, each representing one of the five classical elements; Chidambaram represents akasha (aether).",
+    "hours": "6:00 AM – 12:00 PM, 5:00 PM – 10:00 PM",
+    "tickets": "Free Entry",
+    "coordinates": [11.3986, 79.6934],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Thillai+Nataraja+Temple+Chidambaram"
+  },
+  "Arunachaleswarar Temple": {
+    "location": "Tiruvannamalai",
+    "history": "Located at the foot of Arunachala hill, it is one of the Pancha Bhoota Stalas, representing the element of fire (Agni). It is one of the largest temple complexes in India, spanning 25 acres.",
+    "hours": "5:00 AM – 1:00 PM, 3:30 PM – 9:30 PM",
+    "tickets": "Free Entry; Special Darshan: ₹50",
+    "coordinates": [12.2319, 79.0677],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Arunachaleswarar+Temple+Tiruvannamalai"
+  },
+  "Palani Murugan Temple": {
+    "location": "Palani",
+    "history": "One of the Arupadai Veedu (six abodes) of Lord Murugan. It is situated on a hill and is famous for its 'Panchamirtham' and the tradition of 'Kavadi'. It is one of the most visited shrines in South India.",
+    "hours": "6:00 AM – 8:00 PM",
+    "tickets": "Free Entry; Special Entrance: ₹100",
+    "coordinates": [10.4533, 77.5193],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Palani+Murugan+Temple"
+  },
+  "Kapaleeshwarar Temple": {
+    "location": "Chennai",
+    "history": "A temple of Shiva located in Mylapore, Chennai. Built around the 7th century CE in Dravidian architecture. The temple's name is derived from the words kapalam (head) and eeshwarar (shiva).",
+    "hours": "5:00 AM – 12:00 PM, 4:00 PM – 9:00 PM",
+    "tickets": "Free Entry",
+    "coordinates": [13.0336, 80.2644],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kapaleeshwarar+Temple+Chennai"
+  },
+  "Ekambareswarar Temple": {
+    "location": "Kanchipuram",
+    "history": "One of the Pancha Bhoota Stalas, representing the element of earth (Prithvi). It is the largest temple in Kanchipuram and features a 3,500-year-old mango tree that yields four different types of mangoes.",
+    "hours": "6:00 AM – 12:30 PM, 4:00 PM – 8:30 PM",
+    "tickets": "Free Entry",
+    "coordinates": [12.8468, 79.6974],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ekambareswarar+Temple+Kanchipuram"
+  },
+  "Shore Temple": {
+    "location": "Mahabalipuram",
+    "history": "A structural temple, built with blocks of granite, dating from the 8th century AD. It is a UNESCO World Heritage Site and one of the oldest structural stone temples of South India.",
+    "hours": "6:00 AM – 6:00 PM",
+    "tickets": "₹40 (Indian), ₹600 (Foreigner)",
+    "coordinates": [12.6072, 80.1983],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Shore+Temple+Mahabalipuram"
+  },
+  "Kamakshi Amman Temple": {
+    "location": "Kanchipuram",
+    "history": "An ancient Hindu Temple dedicated to Kamakshi, one of the forms of Goddess Parvati. It is associated with Adi Sankara and is one of the 51 Shakti Peethas.",
+    "hours": "5:30 AM – 12:15 PM, 4:00 PM – 9:00 PM",
+    "tickets": "Free Entry; Special Darshan: ₹100",
+    "coordinates": [12.8368, 79.7027],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kamakshi+Amman+Temple+Kanchipuram"
+  },
+  "Thiruchendur Murugan Temple": {
+    "location": "Thiruchendur",
+    "history": "Located on the shore of the Bay of Bengal, it is the only one of Murugan's six abodes located on the seashore. It commemorates Murugan's victory over the demon Surapadman.",
+    "hours": "5:00 AM – 9:00 PM",
+    "tickets": "Free Entry; Special Darshan: ₹100 - ₹250",
+    "coordinates": [8.4988, 78.1129],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Thiruchendur+Murugan+Temple"
+  },
+  "Jambukeswarar Temple": {
+    "location": "Tiruvanaikaval",
+    "history": "A famous Shiva temple in Srirangam, representing the element of water (Appu). The sanctum has an underground water stream that keeps the deity always in water.",
+    "hours": "5:30 AM – 1:00 PM, 3:00 PM – 8:30 PM",
+    "tickets": "Free Entry",
+    "coordinates": [10.8524, 78.7064],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Jambukeswarar+Temple+Tiruvanaikaval"
+  },
+  "Srivilliputhur Andal Temple": {
+    "location": "Srivilliputhur",
+    "history": "Birthplace of Andal, the only female Alvar. The temple tower is the official emblem of the Government of Tamil Nadu and is 192 feet high.",
+    "hours": "6:00 AM – 1:00 PM, 4:00 PM – 9:00 PM",
+    "tickets": "Free Entry",
+    "coordinates": [9.5085, 77.6322],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Srivilliputhur+Andal+Temple"
+  },
+  "Kumari Amman Temple": {
+    "location": "Kanyakumari",
+    "history": "Located at the confluence of the Arabian Sea, the Bay of Bengal, and the Indian Ocean. It is dedicated to Devi Kanya Kumari, the Virgin Goddess, and is 3,000 years old.",
+    "hours": "4:30 AM – 12:30 PM, 4:00 PM – 8:30 PM",
+    "tickets": "Free Entry",
+    "coordinates": [8.0837, 77.5558],
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kumari+Amman+Temple+Kanyakumari"
+  }
+}
