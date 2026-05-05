@@ -251,4 +251,4 @@ else:
         st.markdown("#### 3. Discover 🏛️")
         st.write("Get instant history, visiting hours, and travel directions.")
     
-    st.image("https://upload.wikimedia.org/wikipedia/commons/4/4e/Meenakshi_Amman_Temple_Madurai.jpg", caption="Meenakshi Amman Temple - One of the 15 temples we identify.")
+    st.image("https://i.natgeofe.com/n/b9e9b8d1-fa08-4b90-96bb-310cace03847/meenakshi-amman-temple-india.jpg", caption="Meenakshi Amman Temple - One of the 15 temples we identify.", width=200)

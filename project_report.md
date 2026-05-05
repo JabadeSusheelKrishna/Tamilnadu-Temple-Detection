@@ -83,6 +83,19 @@ Image quality plays a vital role in computer vision. We applied a sharpening fil
 ### V5: Hybrid FFNN Approach (CLIP + MLP Head)
 The ultimate approach involved freezing the CLIP image encoder and training a lightweight Multi-Layer Perceptron (MLP) head on top of the extracted image embeddings. The MLP consists of fully connected layers with ReLU activation and Dropout for regularization. This allowed the model to explicitly learn the decision boundaries between the 15 specific temples, drastically outperforming the zero-shot methods.
 
+| ![](./flowcharts/1.png){ width=100% } | ![](./flowcharts/2.png){ width=100% } | ![](./flowcharts/3.png){ width=100% } | ![](./flowcharts/4.png){ width=100% } | ![](./flowcharts/5.png){ width=100% } |
+|---|---|---|---|---|
+
+*Fig. 1: Baseline Zero-Shot, Fig. 2: Prompt Engineering, Fig. 3: ROI Architecture Focus, Fig. 4: Image Enhancement, Fig. 5: Hybrid FFNN Approach*
+
+### App Screenshots
+
+![](./screenshots/Screenshot%20(1).png) 
+![](./screenshots/Screenshot%20(2).png) 
+![](./screenshots/Screenshot%20(3).png)
+![](./screenshots/Screenshot%20(4).png) 
+![](./screenshots/Screenshot%20(5).png)
+
 ---
 
 # 5. Results & Evaluation Metrics
